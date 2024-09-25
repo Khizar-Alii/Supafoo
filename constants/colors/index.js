@@ -1,0 +1,17 @@
+export const colors = {
+  primary: '#3c6ce9',
+  splashtext: '#fff',
+  tabBarActiveTint: '#333333',
+  tabBarInactiveTint: '#333333',
+  tabBarBg: '#FFFFFF',
+  success: '#CDFDD4',
+  medium: '#E3E3E3',
+  failure: '#FDCDCD',
+  placeholder: '#636363',
+  strokeColor: '#D0D5DD',
+  greenColor: '#66AE7B',
+  greenDisabledColor: 'rgba(102, 174, 123, 0.7)',
+  openGreen: '#66ae7b',
+  openOrange: '#ff9200',
+  cardText: '#F5f5f5fa',
+};
